@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'minilabphpwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5C9EE7A9D804B18BE99839435AB83C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCB6115E34504DD4817FFB9AFFEB552C }}
           package: .
